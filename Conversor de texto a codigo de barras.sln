@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conversor de texto a codigo de barras", "Conversor de texto a codigo de barras.csproj", "{B3B96E5E-31BD-468F-8CEE-C92BDB35F59B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B3B96E5E-31BD-468F-8CEE-C92BDB35F59B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3B96E5E-31BD-468F-8CEE-C92BDB35F59B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3B96E5E-31BD-468F-8CEE-C92BDB35F59B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3B96E5E-31BD-468F-8CEE-C92BDB35F59B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4AC0FCD1-E830-498A-8D8A-0FA1513ACE1F}
+	EndGlobalSection
+EndGlobal
